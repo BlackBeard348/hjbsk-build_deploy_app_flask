@@ -1,11 +1,11 @@
 def summation(a, b):
-    results = a + b
-    return results
+    result=a+b
+    return result
 
 def subtraction(a, b):
-    results = a - b
-    return results 
+    result=a-b
+    return result 
 
 def multiplication(a, b):
-    results = a * b
-    return results 
+    result=a*b
+    return result 
